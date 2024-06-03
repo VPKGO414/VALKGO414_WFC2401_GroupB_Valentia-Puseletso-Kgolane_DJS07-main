@@ -1,0 +1,10 @@
+/project-root
+  /components
+    Header.js
+    Meme.js
+  /images
+    troll-face.png
+  App.js
+  index.js
+  index.html
+  style.css
